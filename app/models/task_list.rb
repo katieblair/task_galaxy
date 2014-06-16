@@ -4,3 +4,4 @@ class TaskList < ActiveRecord::Base
 
   validates :name
 end
+
